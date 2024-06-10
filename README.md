@@ -1,3 +1,3 @@
 # veldin-api
 
-Describe your project here.
+Fastapi to bootstrap AI SaaS
